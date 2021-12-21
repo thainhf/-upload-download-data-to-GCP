@@ -20,7 +20,7 @@ Data Lake บางครั้งก็ถูกเรียกว่า object
     - ใช้ Data Warehouse (DW)
 
 3. เก็บข้อมูล Unstructured Data เช่น รูปภาพ, ไฟล์เสียง, วีดิโอ หรือ การเก็บข้อมูลดิบ(raw data) ในรูปแบบของไฟล์เช่น .txt, .csv ในราคาประหยัด
-     - Data Lake (DL)
+     - ใช้ Data Lake (DL)
 
 
 ### วิธี Upload ไฟล์ข้อมูลเข้า Google Cloud Storage ที่เราจะใช้เป็น Data Lake
